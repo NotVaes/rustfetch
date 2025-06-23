@@ -1,0 +1,25 @@
+[package]
+name = "rustfetch"
+version = "0.1.0"
+edition = "2021"
+description = "A system information tool written in Rust, similar to neofetch"
+license = "MIT"
+repository = "https://github.com/NotVaes/rustfetch"
+homepage = "https://github.com/NotVaes/rustfetch"
+readme = "README.md"
+keywords = ["system", "info", "cli", "fetch", "neofetch"]
+categories = ["command-line-utilities"]
+authors = ["Htfi/NotVaes"]
+
+[[bin]]
+name = "rustfetch"
+path = "src/main.rs"
+
+[dependencies]
+num_cpus = "1.0"
+
+[profile.release]
+strip = true
+lto = true
+codegen-units = 1
+panic = "abort"
