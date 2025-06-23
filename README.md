@@ -78,7 +78,7 @@ Requirements:
 - Cargo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rustfetch
+git clone https://github.com/NotVaes/rustfetch
 cd rustfetch
 cargo build --release
 ```
@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Development
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rustfetch
+git clone https://github.com/NotVaes/rustfetch
 cd rustfetch
 cargo run
 ```
