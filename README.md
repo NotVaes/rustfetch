@@ -31,7 +31,7 @@ cargo install --git https://github.com/YOUR_USERNAME/rustfetch
 ### From Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rustfetch
+git clone https://github.com/NotVaes/rustfetch
 cd rustfetch
 cargo install --path .
 ```
