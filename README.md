@@ -7,12 +7,12 @@ A fast system information tool written in Rust, inspired by neofetch.
 
 ## Features
 
-- 🚀 **Fast** - Written in Rust for maximum performance
-- 🖥️ **Cross-platform** - Works on Windows, Linux, and macOS
-- 🎨 **Colorful output** - Beautiful ANSI colored display
-- 📊 **Comprehensive info** - Shows CPU, GPU, memory, disk, and more
-- 🔋 **Battery status** - Displays battery information on laptops
-- 🌐 **Network info** - Shows local IP address
+-  **Fast** - Written in Rust for maximum performance
+-  **Cross-platform** - Works on Windows, Linux, and macOS
+-  **Colorful output** - Beautiful ANSI colored display
+-  **Comprehensive info** - Shows CPU, GPU, memory, disk, and more
+-  **Battery status** - Displays battery information on laptops
+-  **Network info** - Shows local IP address
 
 ## Installation
 
@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by [neofetch](https://github.com/dylanaraps/neofetch) and FastFetch
-- Built with ❤️ in Rust
+- Built with Hatred in Rust
