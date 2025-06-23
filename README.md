@@ -25,7 +25,7 @@ cargo install rustfetch
 ### From GitHub
 
 ```bash
-cargo install --git https://github.com/YOUR_USERNAME/rustfetch
+cargo install --git https://github.com/NotVaes/rustfetch
 ```
 
 ### From Source
